@@ -22,7 +22,7 @@ Hi, I'm Dharshini!
 
 | GitHub Stats                                                                                           | Top Languages                                                                                            |
 |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=shri-dharshini&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shri-dharshini&layout=compact&theme=neon) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shri-dharshini&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shri-dharshini&layout=compact&theme=neon) |
 
 <h3 align="left"> ~ Connect with me:</h3>
 
