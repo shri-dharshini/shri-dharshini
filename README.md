@@ -8,7 +8,6 @@ Hi, I'm Dharshini!
 <ul>
   <li> I am currently pursuing my third year in Electronics and Communication Engineering in SSN College of Engineering.</li>
   <li> I am interested in Web and App development, where I can integrate my two passions- development and design.</li>
-  <li> I also take keen interest in Machine Learning concepts, and I am currently exploring in the domain.</li>
   <li> I create vectors, posters, website mockups and 3D models using Adobe Illustrator, Figma and Blender.</li>
 </ul></p>
 
