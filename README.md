@@ -13,7 +13,7 @@ Hi, I'm Dharshini!
 
 <h3 align="left"> ~ Languages and Frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,mysql,html,css,javascript,bootstrap,tensorflow&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,javascript,bootstrap,jquery,npm,nodejs,express,react,mysql,sqlite,flask&theme=dark)](https://skillicons.dev)
 
 <h3 align="left"> ~ Softwares :</h3>
 
