@@ -6,14 +6,14 @@ Hi, I'm Dharshini!
 
 <p> 
 <ul>
-  <li> I am currently pursuing my third year in Electronics and Communication Engineering in SSN College of Engineering.</li>
+  <li> I am currently pursuing my final year in Electronics and Communication Engineering in SSN College of Engineering.</li>
   <li> I am interested in Web and App development, where I can integrate my two passions- development and design.</li>
   <li> I create vectors, posters, website mockups and 3D models using Adobe Illustrator, Figma and Blender.</li>
 </ul></p>
 
 <h3 align="left"> ~ Languages and Frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,javascript,bootstrap,jquery,npm,nodejs,express,react,mysql,sqlite,flask&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,javascript,bootstrap,jquery,npm,nodejs,express,react,mysql,sqlite,flask,java&theme=dark)](https://skillicons.dev)
 
 <h3 align="left"> ~ Softwares :</h3>
 
