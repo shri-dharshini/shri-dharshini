@@ -13,11 +13,11 @@ Hi, I'm Dharshini!
 
 <h3 align="left"> ~ Languages and Frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,javascript,bootstrap,jquery,npm,nodejs,express,react,mysql,sqlite,flask,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,tailwind,javascript,typescript,bootstrap,jquery,npm,nodejs,express,react,mysql,sqlite,flask,java,spring,graphql&theme=dark)](https://skillicons.dev)
 
 <h3 align="left"> ~ Softwares :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ai,figma,blender,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,figma,&theme=dark)](https://skillicons.dev)
 
 
 | GitHub Stats                                                                                           | Top Languages                                                                                            |
